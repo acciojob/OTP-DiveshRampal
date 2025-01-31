@@ -1,4 +1,4 @@
-    <script type="text/javascript" src="./script.js">
+
 		const inputs = document.querySelectorAll('.code');
 
 inputs.forEach((input, index) => {
